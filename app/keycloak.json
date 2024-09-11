@@ -1,0 +1,10 @@
+{
+    "auth-server-url": "http://localhost:8080/auth/",
+    "realm": "my_realm",
+    "resource": "Balu",
+    "credentials": {
+      "secret": "ssoproj"
+    },
+    "confidential-port": 0
+  }
+  
